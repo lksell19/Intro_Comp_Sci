@@ -17,10 +17,10 @@
  */
 
 
-let schoolName = "YOUR SCHOOL NAME"
-let refrain = "hmm hmm HMMM hm-hmm \(schoolName) hmm hmm HMMMMM"
+let schoolName = "Hogwarts"
+let refrain = "\(schoolName) is the best, \nbetter than the rest.\n\(schoolName) fights, \n\(schoolName) wins, \nRAH RAH RAH!"
 
-let song = "\(refrain)\n\(refrain)\nYes, \(refrain)"
+let song = "Oh, \(schoolName) is full of winners, \nthe outcome's really clear.\nWe'll eat you up for dinner,\nwe know you're full of fear.\n\n\(refrain)\n\n\(refrain)\n\nYes, \(refrain)"
 
 
 

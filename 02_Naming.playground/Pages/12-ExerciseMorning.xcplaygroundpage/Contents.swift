@@ -6,13 +6,12 @@
  - callout(Exercise): Create a constant for each activity you do in the morning before leaving home: things like `brushTeeth`, `uploadPhotos`, `chooseClothes`, `shower`, `goJogging`, `finishHomework`, `fixLunch`, and so on. Think about how many minutes each activity usually takes, and assign that value to each constant.
  */
 let brushTeeth = 3
+// Add more here...
 let wasteTime = 0
 let exercise = 35
 let eatBreakfast = 5
 let getReady = 10
 let makeup = 10
-// Add more here...
-
 //: - callout(Exercise): Find the total time of all the activities by adding up the constants. Try to adjust the values or add more activities until the total time looks reasonably close to the actual amount of time you spend getting ready on an average day.
 let totTime = brushTeeth + exercise + eatBreakfast + getReady + wasteTime + makeup
 
@@ -31,7 +30,7 @@ let meh = wasteTime
  
  Change the numbers until you’ve got a design for your ideal morning. What would have to change in order for you to be able to actually spend your morning time this way?
 */
-
+//Waste less time
 
 
 

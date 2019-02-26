@@ -14,9 +14,12 @@
  
  _Hint:_ Do all of your calculations in megabytes.
  */
+let gB = 1000
+let totCap = 8 * gB
+let available = totCap - (3 * gB)
+let minVid = available / 150
 
-
-
+let minVidString = "You can record \(minVid) more minutes of video."
 
 
 
